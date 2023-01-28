@@ -8,7 +8,7 @@
 <br>
 
 <div style="display: inline_block" align="center">
-  <h2 align="center">Linguagens que estou me estudando:</h2>
+  <h2 align="center">Linguagens que estou estudando:</h2>
  
   <img align="center" height="30" width="40" alt="c-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
   <img align="center" height="30" width="40" alt="cplusplus-icon"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />

@@ -26,9 +26,7 @@
   <a href = "https://www.linkedin.com/in/gabrielegon%C3%A7alves/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href = "https://www.instagram.com/gabriele.glvs/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
-
-<div>
    
-- ![Snake animation](https://github.com/gabrieleglvs/gabrieleglvs/blob/output/github-contribution-grid-snake.svg)
--
-</div>
+<!-- ![Snake animation](https://github.com/gabrieleglvs/gabrieleglvs/blob/output/github-contribution-grid-snake.svg)
+-->
+
